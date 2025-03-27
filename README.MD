@@ -1,4 +1,4 @@
-# Multi-agents Design Patterns
+# Multi-agents Design Patterns and Evaluation Process
 
 ## Installation
 
